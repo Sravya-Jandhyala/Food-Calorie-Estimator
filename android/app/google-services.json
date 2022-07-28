@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "170707052991",
+    "firebase_url": "https://foodcalorieestimator-default-rtdb.firebaseio.com",
+    "project_id": "foodcalorieestimator",
+    "storage_bucket": "foodcalorieestimator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170707052991:android:248692b783141f5375990a",
+        "android_client_info": {
+          "package_name": "com.example.first1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170707052991-4q7o4eqrm2k1gll0bs07h9a5ahtjq25d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA5XNfw4-IQNdXdAgxM1ggTQe7tNu5M-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170707052991-4q7o4eqrm2k1gll0bs07h9a5ahtjq25d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
